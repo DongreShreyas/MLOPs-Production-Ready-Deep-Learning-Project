@@ -1,9 +1,5 @@
 # MLOPs-Production-Ready-Deep-Learning-Project
 
-# MLOPs-Production-Ready-Deep-Learning-Project
-
-
-
 ## Workflows
 
 1. Update config.yaml
